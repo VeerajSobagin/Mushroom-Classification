@@ -6,7 +6,7 @@ The Audubon Society Field Guide to North American Mushrooms includes description
 The main objective is to figure out which mushrooms are harmful and which are edible.
 
 
-### video demo ```https://youtu.be/wXOGrtX4-TM```
+### video demo https://www.loom.com/share/6d93cbaef28e4089a987a17d759bd08f?sid=ab4942df-11a2-4dba-8ba8-7b8a80bbb562
 
 ### app link https://mushroom-classification-lno4tx0re8f.streamlit.app/
 
