@@ -11,7 +11,7 @@ st.title('Mushroom Prediction')
 upload_file=st.file_uploader('Choose a csv')
 
 def data_clean(df):
-    df=df.drop(columns='Unnamed: 0',axis=1)
+    #df=df.drop(columns='Unnamed: 0',axis=1)
     encoder = LabelEncoder()
     for column in range(len(df.columns)):
         df[df.columns[column]]= encoder.fit_transform(df[df.columns[column]])
