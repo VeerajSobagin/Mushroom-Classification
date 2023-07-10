@@ -8,6 +8,6 @@ The main objective is to figure out which mushrooms are harmful and which are ed
 
 ### video demo ```https://youtu.be/wXOGrtX4-TM```
 
-### app link ```https://sanjay9783-mushroom-classification-app-kifjvu.streamlit.app/```
+### app link https://mushroom-classification-lno4tx0re8f.streamlit.app/
 
 ### Dataset link: [Mushroom-Classification](https://www.kaggle.com/datasets/uciml/mushroom-classification). 
